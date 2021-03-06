@@ -6,6 +6,9 @@ With this tutorial, we have a working example website that we will explore toget
 
 We'll start our exploration online looking at the website architecture, then we'll clone the repo to our local computers. Locally, we will explore further by going back and forth between the R Markdown editor and built webpages, and make modifications. Pushing to Github will make our modifications live!    
 
+This is Jia trying 
+second try 
+
 
 
 ----
